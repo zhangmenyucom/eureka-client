@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.taylor:spring-starter-test:1.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/taylor/spring-starter-test/1.0-SNAPSHOT/spring-starter-test-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/taylor/spring-starter-test/1.0-SNAPSHOT/spring-starter-test-1.0-20181102.084703-4.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/com/taylor/spring-starter-test/1.0-SNAPSHOT/spring-starter-test-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/taylor/spring-starter-test/1.0-SNAPSHOT/spring-starter-test-1.0-20181102.084703-4-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/com/taylor/spring-starter-test/1.0-SNAPSHOT/spring-starter-test-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/taylor/spring-starter-test/1.0-SNAPSHOT/spring-starter-test-1.0-20181102.084703-4-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
